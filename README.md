@@ -1,2 +1,2 @@
-# Data-Analysis-with-Python
-Data Analysis projects with Python
+# Data-Analysis-Prjects
+Data Analysis projects
